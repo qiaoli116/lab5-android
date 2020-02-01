@@ -14,5 +14,7 @@ public class HomeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_home);
 
         // something is updated
+
+        // something is updated again
     }
 }
